@@ -1,0 +1,6 @@
+{
+  "name": "Telegram VPN Bot & Web App Manager (@FRE0BOT)",
+  "description": "Express & Node.js backend ecosystem for Telegram Bot (@FRE0BOT) and Web App featuring forced channel subscription (@FR7l7), 1 to 7 day VPN/SSH/V2Ray config generator, rate limiting, and web management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
